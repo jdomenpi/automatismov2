@@ -1,0 +1,27 @@
+
+04/05/2022 	-->Remplazo de las Plabras absence -->pklowercase ABSENCE -->PKUPERCASE en el fichero plantilla_carga/datos_plantilla_wd.sh
+				-->Condición Regular en las condiciónes de envio 0/1/3 ok
+				Ejecución Ok 0/1/3
+05/05/2022	-->Remplazo de las Plabras absence -->pklowercase  en el fichero plantilla_carga/datos_plantilla_wd.hql
+				--> Condición Regular en las condiciónes de envio 0/1/4 ok
+				Ejecución Ok 0/1/4
+			-->Remplazo de las Plabras absence -->pklowercase en el fichero plantilla_descarga/job_extraccion_datos_plantilla_wd.sh
+				--> Condición Regular en las condiciónes de envio 0/2/6 ok
+				Ejecución OK 0/2/6
+				
+			-->Remplazo de las Plabras absence -->pklowercase en el fichero plantilla_carga/etl_datos_plantilla_wd.scala
+				--> Condición Regular en las condiciónes de envio 0/1/5 ok
+				Ejecución ok ?
+			
+06/05/2022 	-->Remplazo de la palabara absence -->pklowercase en el ficheros plantilla_descarga/datos_extraccion_plantilla_wd.hql
+				--> Condición Regular en las condiciónes en envio 0/2/7 ok
+				Ejecución ok en 0/2/7
+				
+				--Siguiente paso en espera.
+			-->Preguntar a Elian sobre la palabra de WORKDAY en los siguientes  ficheros /plantilla_descarga/job_datos_extraccion_plantilla_wd.hql
+				-->WORKDAY en /plantilla_descarga/datos_extraccion_plantilla_wd.hql
+				-->WORKDAY en plantilla_carga/datos_plantilla_wd
+				-->WORKDAY en plantilla_carga/etl_datos_plantilla_wd.scala
+				--> Preguntar sobre sobre el fichero datos_plantilla_wd_cab.txt
+				
+				

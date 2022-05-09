@@ -1,0 +1,1 @@
+emplid;id_wkd;loa_type;loa_reason;start_dt;end_dt;estimated_end_dt;last_day_work;first_day_work;leave_perc;child_birthdate;n_child;data_date_part
